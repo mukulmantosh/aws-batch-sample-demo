@@ -1,3 +1,3 @@
 # AWS Batch Demo
 
-This repository contains necessary code from showcasing the demo of running application in the AWS Batch.
+YouTube Link (Walkthrough) -> https://www.youtube.com/watch?v=3tICtlm0PcY
